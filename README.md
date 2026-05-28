@@ -1,5 +1,9 @@
-## Hi there 👋
+# SOBRE MIM:
 
+## quem sou eu? 
+  - akdasd
+  - 
+ 
 <!--
 **Aquinodev01/Aquinodev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
